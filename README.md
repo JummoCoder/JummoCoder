@@ -25,6 +25,8 @@
 
 📗 Performance Testing Tool: JMeter
 
+📗 Automation Testing Tool: Selenium
+
 📗 API Testing Tool: Postman
 
 📕 Security Testing Tool: Nmap
